@@ -10,9 +10,6 @@
   "description": "Extension to manage ACLs on Imap Servers",
   "version": "0.3.0",
   "author": "Daniel Stoye",
-  "icons": {
-    "32": "content/icon32x32.png"
-  },
   "legacy": {
     "type": "xul",
     "options": {
